@@ -1,0 +1,6 @@
+{
+  "name": "Menu Mart SaaS",
+  "description": "نظام منيو ذكي للمطاعم عبر QR Code مع لوحة تحكم، طلبات مباشرة، ونظام تحقق OTP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
